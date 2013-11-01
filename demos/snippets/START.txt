@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <script src="Scripts/jquery-2.0.3.min.js"></script>
+    <script src="Scripts/underscore.min.js"></script>
     <title></title>
 </head>
     <body>
@@ -26,9 +27,13 @@
             function processMovies(data) {
                 var movies = data.movies;
                 $.each(movies, function (index, movie) {
-                    $(document.body).append('<h2>' + movie.title + '</h2>');
-                    $(document.body).append('<img src="' + movie.posters.profile + '" />');
+                    outputMovie(movie);
                 });
+            }
+            
+            function outputMovie(movie) {
+                $(document.body).append('<h2>' + movie.title + '</h2>');
+                $(document.body).append('<img src="' + movie.posters.profile + '" />');
             }
         </script>
     </body>

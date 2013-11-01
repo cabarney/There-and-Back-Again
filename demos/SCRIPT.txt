@@ -1,0 +1,58 @@
+SCRIPT
+
+UNDERSCORE
+VS2013 - File->New Project - Web, blank + MCV & WebAPI
+
+bring in START code for index.html - rotten tommatos api call
+
+fields: title, mpaa_rating, runtime, ratings.[critics_rating,critics_score,audience_rating, audience_score], release_dates.theater, posters.[thumbnail, profile, detailed, original], .abridged_cast.[name,character]
+
+install-package underscore.js
+add to head
+
+"Underscore is to javascript/json as jQuery is to the DOM.  It's like LINQ in the JS world"
+filter == where
+    var top = _.filter(movies, function(m) { return m.ratings.critics_score > 80; });
+    _(top).each(outputMovie);
+
+Make more OO!
+	var top = _(movies).filter(function(m) { return m.ratings.critics_score > 80; });
+
+map == select
+	var compact = _(top).map(function(m) { return {title:m.title, poster:m.posters.profile}; });
+	_(compact).each(outputMovie);
+
+chaining
+    _.chain(movies)
+	    .filter(function(m) { return m.ratings.critics_score > 80; })
+	    .map(function(m) { return { title: m.title, poster: m.posters.profile }; })
+	    .each(outputMovie);
+THEN:
+    var top = _.chain(movies)
+        .filter(function(m) { return m.ratings.critics_score > 80; })
+        .map(function(m) { return { title: m.title, poster: m.posters.profile }; })
+        .value();
+    
+    
+
+    _(top).each(outputMovie);
+
+all 
+are all of them over 90 minutes?
+ (remember to add runtime to top)
+	console.log(_(top).all(function (m) { return m.runtime > 90; }));    
+
+which is shortest?
+	console.log(_(top).min(function (m) { return m.runtime; }));
+
+uniq - what ratings exist
+ (remember to add mpaa_rating to top)
+ 	console.log(_(top).uniq(false, function (m) { return m.rating; }));
+ hmm... not what we expected - need to map first!
+ 	console.log(_(top).chain().map(function (m) { return m.rating; }).uniq().value());
+
+templates
+	var template = '<h2>Title: <%= title %> (<%= rating %>)</h2><img src="<%= poster %>" />';
+	_(top).each(function(m) {
+	    $(document.body).append(_.template(template, m));
+	}); 	
