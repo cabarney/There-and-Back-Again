@@ -6,10 +6,15 @@ I'm a PC
 MS hasn't cared about the front-end 
 	ASP
 	ASP.NET
-	ASP.NET MVC
+	ASP.NET MVC even
+
+The things started to change...
 	No Guidance!  (a good thing!)
 	TypeScript
 	OWIN / Katana
+
+	Web Essentials
+	VS 2013 Improvements
 
 So what should we do on the client?
 
@@ -18,6 +23,7 @@ So many JS Libraries
 Categorize?
 
 Demos
+
 	Underscore
 	AngularJS
 	Durandal 
@@ -27,6 +33,32 @@ Demos
 	Bootstrap?
 	Katana?
 
+	Side Waffle?
 	Hot Towel
 
 	Bring it all together?
+
+
+Start with WebAPI - GET in JS
+Basic binding with Knockout
+Do some LINQ-style manipulation with Underscore
+Introduce Breeze
+Compose with Durandal
+Show some TypeScript
+
+Angular???
+
+
+Maybe instead just show some canned demos from the library's sites?
+
+Underscore - jsFiddle
+Knockout - show tuts, jsFiddle
+Breeze - nice ToDo demo available via NuGet
+Durandal - StarterKit? (NuGet)
+Toastr
+Knockout Validation plugin
+Typescript??? 
+
+AplifyJS?
+
+HotTowel, SideWaffle
