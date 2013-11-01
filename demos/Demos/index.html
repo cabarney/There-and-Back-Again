@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="Scripts/jquery-2.0.3.min.js"></script>
+    <title></title>
+</head>
+    <body>
+        <h1>Movies</h1>
+        
+        
+        <script>
+            var apikey = "ercyc3qz8kz5vrxxneuef363";
+            var baseUrl = "http://api.rottentomatoes.com/api/public/v1.0";
+            var moviesSearchUrl = baseUrl + '/lists/movies/box_office.json?apikey=' + apikey;
+
+            $(document).ready(function () {
+                $.ajax({
+                    url: moviesSearchUrl + '&limit=50',
+                    dataType: "jsonp",
+                    success: processMovies
+                });
+                //$.getJSON("movies.txt", processMovies);
+            });
+
+
+            function processMovies(data) {
+                var movies = data.movies;
+                $.each(movies, function (index, movie) {
+                    $(document.body).append('<h2>' + movie.title + '</h2>');
+                    $(document.body).append('<img src="' + movie.posters.profile + '" />');
+                });
+            }
+        </script>
+    </body>
+</html>

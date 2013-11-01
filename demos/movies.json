@@ -1,0 +1,712 @@
+{
+  "upcoming": [
+    {
+      "id": "771361701",
+      "title": "Birth Of The Living Dead",
+      "year": 2013,
+      "mpaa_rating": "Unrated",
+      "runtime": 76,
+      "release_dates": {
+        "theater": "2013-11-06",
+        "dvd": "2014-01-07"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 100,
+        "audience_score": 78
+      },
+      "synopsis": "n 1968 a young college drop-out and aspiring filmmaker named George A. Romero directed Night of the Living Dead, a low-budget horror film that shocked the world, became an icon of the counterculture, and invented the modern movie zombie, which has spawned legions of films, books, comics, and video games, generating billions of dollars. Night of the Living Dead is not only internationally recognized as an art film, revered for its groundbreaking treatment of American race relations and allegorical references to the Vietnam war, the film still maintains its cult status as a classic horror masterpiece. The film made history when it simultaneously screened at MOMA and the notorious grind-house theater circuit on 42nd Street. Since its release Night of the Living Dead has been selected for preservation by the Library of Congress and the National Film Registry. Rob Kuhns' feature documentary BIRTH OF THE LIVING DEAD goes beyond just being a tribute to director George Romero's work, to explore a critical moment in the American experience and the notion that horror acts as a reflection of national anxiety. The film details how Romero gathered an unlikely team of real Pittsburgh citizens -- police officers, iron workers, teachers, housewives and a roller-rink owner -- to shoot in a revolutionary guerrilla style that became a cinematic landmark and one of the most visceral and influential horror films ever made.(c) First Run",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/29/11172947_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/29/11172947_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/29/11172947_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/29/11172947_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Larry Fessenden",
+          "id": "162727376"
+        },
+        {
+          "name": "Mark Harris",
+          "id": "770671662"
+        },
+        {
+          "name": "Gale Anne Hurd",
+          "id": "326298084"
+        },
+        {
+          "name": "Elvis Mitchell",
+          "id": "770721157"
+        },
+        {
+          "name": "Samuel D. Pollard",
+          "id": "770830647"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2507128"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771361701.json",
+        "alternate": "http://www.rottentomatoes.com/m/birth_of_the_living_dead/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771361701/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771361701/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771361701/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771361701/similar.json"
+      }
+    },
+    {
+      "id": "771247277",
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 112,
+      "release_dates": {
+        "theater": "2013-11-08"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 83,
+        "audience_score": 99
+      },
+      "synopsis": "Marvel's \"Thor: The Dark World\" continues the big-screen adventures of Thor, the Mighty Avenger, as he battles to save Earth and all the Nine Realms from a shadowy enemy that predates the universe itself. In the aftermath of Marvel's \"Thor\" and \"Marvel's The Avengers,\" Thor fights to restore order across the cosmos...but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all. (c) Disney",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/26/11172694_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/26/11172694_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/26/11172694_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/26/11172694_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Chris Hemsworth",
+          "id": "770829335",
+          "characters": [
+            "Thor"
+          ]
+        },
+        {
+          "name": "Natalie Portman",
+          "id": "162652154",
+          "characters": [
+            "Jane Foster"
+          ]
+        },
+        {
+          "name": "Tom Hiddleston",
+          "id": "770837993",
+          "characters": [
+            "Loki"
+          ]
+        },
+        {
+          "name": "Stellan Skarsgard",
+          "id": "162684205",
+          "characters": [
+            "Dr. Erik Selvig"
+          ]
+        },
+        {
+          "name": "Idris Elba",
+          "id": "162654425",
+          "characters": [
+            "Heimdall"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1981115"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277.json",
+        "alternate": "http://www.rottentomatoes.com/m/thor_the_dark_world/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771247277/similar.json"
+      }
+    },
+    {
+      "id": "771324789",
+      "title": "The Book Thief",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 125,
+      "release_dates": {
+        "theater": "2013-11-08"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 96
+      },
+      "synopsis": "Based on the beloved international bestselling book, The Book Thief tells the story of an extraordinary, spirited young girl sent to live with a foster family in WWII Germany. Intrigued by the only book she brought with her, she begins collecting books as she finds them. With the help of her new parents and a secret guest under the stairs, she learns to read and creates a magical world that inspires them all.",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/44/11174462_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/44/11174462_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/44/11174462_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/44/11174462_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Sophie Nelisse",
+          "id": "771379482",
+          "characters": [
+            "Liesel"
+          ]
+        },
+        {
+          "name": "Geoffrey Rush",
+          "id": "162659119"
+        },
+        {
+          "name": "Emily Watson",
+          "id": "162654016"
+        },
+        {
+          "name": "Ben Schnetzer",
+          "id": "770678301"
+        },
+        {
+          "name": "Nico Liersch",
+          "id": "771451813"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "0816442"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324789.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_book_thief/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324789/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324789/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324789/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324789/similar.json"
+      }
+    },
+    {
+      "id": "771356815",
+      "title": "How I Live Now",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 100,
+      "release_dates": {
+        "theater": "2013-11-08"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 72,
+        "audience_score": 90
+      },
+      "synopsis": "Set in the near-future UK, Ronan plays Daisy, an American teenager sent to stay with relatives in the English countryside. Initially withdrawn and alienated, she begins to warm up to her charming surroundings, and strikes up a romance with the handsome Edmund (George MacKay). But on the fringes of their idyllic summer days are tense news reports of an escalating conflict in Europe. As the UK falls into a violent, chaotic military state, Daisy finds herself hiding and fighting to survive. (c) Magnolia",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/17/31/11173181_mob.png",
+        "profile": "http://content7.flixster.com/movie/11/17/31/11173181_pro.png",
+        "detailed": "http://content7.flixster.com/movie/11/17/31/11173181_det.png",
+        "original": "http://content7.flixster.com/movie/11/17/31/11173181_ori.png"
+      },
+      "abridged_cast": [
+        {
+          "name": "Saoirse Ronan",
+          "id": "770680691",
+          "characters": [
+            "Daisy"
+          ]
+        },
+        {
+          "name": "George McKay",
+          "id": "770823970",
+          "characters": [
+            "Eddie"
+          ]
+        },
+        {
+          "name": "Tom Holland (X)",
+          "id": "771425934",
+          "characters": [
+            "Isaac"
+          ]
+        },
+        {
+          "name": "Harley Bird",
+          "id": "771453185",
+          "characters": [
+            "Piper"
+          ]
+        },
+        {
+          "name": "Anna Chancellor",
+          "id": "353587544"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1894476"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356815.json",
+        "alternate": "http://www.rottentomatoes.com/m/how_i_live_now/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356815/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356815/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356815/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771356815/similar.json"
+      }
+    },
+    {
+      "id": "771318773",
+      "title": "Best Man Down",
+      "year": 2013,
+      "mpaa_rating": "PG-13",
+      "runtime": 91,
+      "release_dates": {
+        "theater": "2013-11-08"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 87
+      },
+      "synopsis": "When their obnoxious and over-served best man, Lumpy (Tyler Labine) unexpectedly dies at their destination wedding in Phoenix, bride and groom Kristin (Jess Weixler) and Scott (Justin Long) are forced to cancel their honeymoon and fly home to the snowy Midwest to arrange for his funeral. But getting Lumpy's body back to Minneapolis is just the start of their adventure, as the well-intended sacrifice surprises at every turn. And when the newlyweds' path leads them to a fifteen year-old girl (Addison Timlin) in a small, northern Minnesota town - all bets are off on who Lumpy really was. (c) Magnolia",
+      "posters": {
+        "thumbnail": "http://content6.flixster.com/movie/11/17/29/11172904_mob.jpg",
+        "profile": "http://content6.flixster.com/movie/11/17/29/11172904_pro.jpg",
+        "detailed": "http://content6.flixster.com/movie/11/17/29/11172904_det.jpg",
+        "original": "http://content6.flixster.com/movie/11/17/29/11172904_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Justin Long",
+          "id": "162652679",
+          "characters": [
+            "Scott"
+          ]
+        },
+        {
+          "name": "Tyler Labine",
+          "id": "410844475",
+          "characters": [
+            "Lumpy"
+          ]
+        },
+        {
+          "name": "Jess Weixler",
+          "id": "397419009",
+          "characters": [
+            "Kristin"
+          ]
+        },
+        {
+          "name": "Addison Timlin",
+          "id": "770758596",
+          "characters": [
+            "Ramsey"
+          ]
+        },
+        {
+          "name": "Frances O'Connor",
+          "id": "326397496",
+          "characters": [
+            "Jaime"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1885300"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318773.json",
+        "alternate": "http://www.rottentomatoes.com/m/lumpy_2012/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318773/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318773/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318773/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771318773/similar.json"
+      }
+    },
+    {
+      "id": "771362963",
+      "title": "The Armstrong Lie",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 122,
+      "release_dates": {
+        "theater": "2013-11-08"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 92,
+        "audience_score": 82
+      },
+      "synopsis": "In 2009 Alex Gibney was hired to make a film about Lance Armstrong's comeback to cycling. The project was shelved when the doping scandal erupted, and re-opened after Armstrong's confession. (c) Sony Classics",
+      "posters": {
+        "thumbnail": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "profile": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "detailed": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif",
+        "original": "http://images.rottentomatoescdn.com/images/redesign/poster_default.gif"
+      },
+      "abridged_cast": [
+        {
+          "name": "Lance Armstrong",
+          "id": "686049099"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1638364"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771362963.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_armstrong_lie_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771362963/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771362963/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771362963/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771362963/similar.json"
+      }
+    },
+    {
+      "id": "771325911",
+      "title": "The Best Man Holiday",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": "",
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 93
+      },
+      "synopsis": "The follow-up to \"The Best Man.\"",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/37/11173727_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/37/11173727_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/37/11173727_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/37/11173727_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Morris Chestnut",
+          "id": "162653531"
+        },
+        {
+          "name": "Taye Diggs",
+          "id": "162655514"
+        },
+        {
+          "name": "Regina Hall",
+          "id": "162667054"
+        },
+        {
+          "name": "Terrence Howard",
+          "id": "162652991"
+        },
+        {
+          "name": "Sanaa Lathan",
+          "id": "162660192"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2083355"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911.json",
+        "alternate": "http://www.rottentomatoes.com/m/the_best_man_holiday_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771325911/similar.json"
+      }
+    },
+    {
+      "id": "771355253",
+      "title": "Nebraska",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 110,
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 86,
+        "audience_score": 90
+      },
+      "synopsis": "Director Alexander Payne (Sideways, The Descendants) takes the helm for this black and white road trip drama starring Bruce Dern as a tempestuous Missouri father who's convinced he's won a million dollar magazine sweepstakes, and Will Forte as the son who grudgingly agrees to drive him to Nebraska to claim his winnings. Bob Odenkirk and Stacy Keach costar. ~ Jason Buchanan, Rovi",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/17/35/11173579_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/17/35/11173579_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/17/35/11173579_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/17/35/11173579_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Bruce Dern",
+          "id": "162658850"
+        },
+        {
+          "name": "Will Forte",
+          "id": "770670480"
+        },
+        {
+          "name": "Bob Odenkirk",
+          "id": "162655310"
+        },
+        {
+          "name": "Stacy Keach",
+          "id": "162678778"
+        },
+        {
+          "name": "Devin Ratray",
+          "id": "770742232"
+        }
+      ],
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253.json",
+        "alternate": "http://www.rottentomatoes.com/m/nebraska/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771355253/similar.json"
+      }
+    },
+    {
+      "id": "771324589",
+      "title": "Charlie Countryman",
+      "year": 2013,
+      "mpaa_rating": "R",
+      "runtime": 108,
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_rating": "Rotten",
+        "critics_score": 33,
+        "audience_score": 83
+      },
+      "synopsis": "When his late mother appears in a vision and tells him to go to Bucharest, Charlie immediately boards a plane across the Atlantic. But when he meets a fellow passenger, Charlie finds himself with another promise to fulfill. Charlie does so - and falls head over heels in love with Gabi, a beautiful musician. However, a vicious gangster has already laid claim to Gabi, and has no intention of letting her go. Determined to protect her, Charlie enters into the hallucinatory, Romanian underworld filled with violence and, strangely enough, love. (c) Mllenium",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/38/11173878_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/38/11173878_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/38/11173878_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/38/11173878_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Shia LaBeouf",
+          "id": "162654215",
+          "characters": [
+            "Charlie Countryman"
+          ]
+        },
+        {
+          "name": "Evan Rachel Wood",
+          "id": "162653277",
+          "characters": [
+            "Gabi Banyai"
+          ]
+        },
+        {
+          "name": "Mads Mikkelsen",
+          "id": "326395728",
+          "characters": [
+            "Nigel"
+          ]
+        },
+        {
+          "name": "Rupert Grint",
+          "id": "162655376",
+          "characters": [
+            "Karl"
+          ]
+        },
+        {
+          "name": "Melissa Leo",
+          "id": "371352682",
+          "characters": [
+            "Katie"
+          ]
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1196948"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324589.json",
+        "alternate": "http://www.rottentomatoes.com/m/charlie_countryman/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324589/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324589/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324589/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771324589/similar.json"
+      }
+    },
+    {
+      "id": "771353074",
+      "title": "Dear Mr. Watterson",
+      "year": 2013,
+      "mpaa_rating": "Unrated",
+      "runtime": 89,
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_score": -1,
+        "audience_score": 84
+      },
+      "synopsis": "Joel Allen Schroeder's documentary Dear Mr. Watterson: An Exploration of Calvin & Hobbes introduces us to numerous people who were profoundly influenced by the philosophical and very warmhearted comic strip created and written by Bill Watterson, who has studiously avoided the spotlight since ending the strip in 1995. Nearly two decades later, the film showcases how the collected works of Watterson still speak to readers everywhere. ~ Perry Seibert, Rovi",
+      "posters": {
+        "thumbnail": "http://content8.flixster.com/movie/11/17/40/11174062_mob.jpg",
+        "profile": "http://content8.flixster.com/movie/11/17/40/11174062_pro.jpg",
+        "detailed": "http://content8.flixster.com/movie/11/17/40/11174062_det.jpg",
+        "original": "http://content8.flixster.com/movie/11/17/40/11174062_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Berkeley Breathed",
+          "id": "770780476"
+        },
+        {
+          "name": "Stephen Pastis",
+          "id": "771367311"
+        },
+        {
+          "name": "Seth Green",
+          "id": "162660883"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "2222206"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353074.json",
+        "alternate": "http://www.rottentomatoes.com/m/dear_mr_watterson/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353074/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353074/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353074/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771353074/similar.json"
+      }
+    },
+    {
+      "id": "771251447",
+      "title": "Faust",
+      "year": 2013,
+      "mpaa_rating": "Unrated",
+      "runtime": 134,
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 73,
+        "audience_score": 75
+      },
+      "synopsis": "Employing elaborate camera movements, a dense soundscape, intricate production design and spectacular locations, FAUST conjures up a unique and phantasmagoric vision of the Faustian legend. Faust, played by Johannes Zeiler, is a man in search of the ideals of the Enlightenment but he becomes obsessed with the lovely Magarethe (Isolda Dychauk) and eventually sells his soul to the Devil (Anton Adasinsky) also known as the Moneylender, so that he may possess her. Comic, cosmic, painterly and stunningly beautiful scenes abound as the Devil takes Faust on a strange, unforgettable journey that ends in Hell itself. (c) Leisure Time Features",
+      "posters": {
+        "thumbnail": "http://content9.flixster.com/movie/11/16/44/11164467_mob.jpg",
+        "profile": "http://content9.flixster.com/movie/11/16/44/11164467_pro.jpg",
+        "detailed": "http://content9.flixster.com/movie/11/16/44/11164467_det.jpg",
+        "original": "http://content9.flixster.com/movie/11/16/44/11164467_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Johannes Zeiler",
+          "id": "771381892",
+          "characters": [
+            "Faust"
+          ]
+        },
+        {
+          "name": "Anton Adasinsky",
+          "id": "771009635"
+        },
+        {
+          "name": "Isolda Dychauk",
+          "id": "770849252",
+          "characters": [
+            "Margarete"
+          ]
+        },
+        {
+          "name": "Georg Friedrich",
+          "id": "326433396"
+        },
+        {
+          "name": "Hanna Schygulla",
+          "id": "364604001"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1437357"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771251447.json",
+        "alternate": "http://www.rottentomatoes.com/m/faust_2013/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771251447/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771251447/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771251447/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771251447/similar.json"
+      }
+    },
+    {
+      "id": "771308378",
+      "title": "Sunlight Jr.",
+      "year": 2013,
+      "mpaa_rating": "Unrated",
+      "runtime": 90,
+      "release_dates": {
+        "theater": "2013-11-15"
+      },
+      "ratings": {
+        "critics_rating": "Fresh",
+        "critics_score": 100,
+        "audience_score": 90
+      },
+      "synopsis": "SUNLIGHT JR. spotlights hard-working convenience store clerk Melissa (Naomi Watts) and her disabled boyfriend, Richie (Matt Dillon), who are trapped in a generational cycle of poverty. Their luck may be changing when they learn that Melissa has become pregnant. But as soon as she loses her job and they get evicted from the motel they live in, their joy vanishes. Through this adversity, the couple realizes that they can never lose everything as long as they have each other. (c)Gravitas",
+      "posters": {
+        "thumbnail": "http://content7.flixster.com/movie/11/17/39/11173953_mob.jpg",
+        "profile": "http://content7.flixster.com/movie/11/17/39/11173953_pro.jpg",
+        "detailed": "http://content7.flixster.com/movie/11/17/39/11173953_det.jpg",
+        "original": "http://content7.flixster.com/movie/11/17/39/11173953_ori.jpg"
+      },
+      "abridged_cast": [
+        {
+          "name": "Naomi Watts",
+          "id": "162654749",
+          "characters": [
+            "Melissa"
+          ]
+        },
+        {
+          "name": "Matt Dillon",
+          "id": "162652207",
+          "characters": [
+            "Richie"
+          ]
+        },
+        {
+          "name": "Norman Reedus",
+          "id": "162684038",
+          "characters": [
+            "Justin"
+          ]
+        },
+        {
+          "name": "Tess Harper",
+          "id": "162654631",
+          "characters": [
+            "Melissa's Mother"
+          ]
+        },
+        {
+          "name": "William Haze",
+          "id": "770723584"
+        }
+      ],
+      "alternate_ids": {
+        "imdb": "1517249"
+      },
+      "links": {
+        "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771308378.json",
+        "alternate": "http://www.rottentomatoes.com/m/sunlight_jr/",
+        "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771308378/cast.json",
+        "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771308378/clips.json",
+        "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771308378/reviews.json",
+        "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771308378/similar.json"
+      }
+    }
+  ]
+}
