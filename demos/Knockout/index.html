@@ -3,45 +3,38 @@
 <head>
     <script src="Scripts/jquery-2.0.3.min.js"></script>
     <script src="Scripts/underscore.min.js"></script>
-    <script src="Scripts/knockout-3.0.0.js"></script>
     <title></title>
 </head>
-    <body>
-        <h1><span data-bind="text: count"></span> Movies</h1>
-        <div>Search: <input data-bind="value: searchTerm"/><button data-bind="click: search">Search</button></div>
-        <div data-bind="foreach: movies">
-            <h2 data-bind="text: title"></h2>
-            <img data-bind="attr: {src:poster}"/>
-        </div>
-        
-        <script>
-            var apikey = "ercyc3qz8kz5vrxxneuef363";
-            var baseUrl = "http://api.rottentomatoes.com/api/public/v1.0";
-            var moviesSearchUrl = baseUrl + '/movies.json?apikey=' + apikey + "&q=";
-            
-            var vm = new function() {
-                var self = this;
-                this.searchTerm = ko.observable();
-                this.count = ko.observable();
-                this.movies = ko.observableArray();
+<body>
+    <h1>Movies</h1>
 
-                this.search = function() {
-                    $.ajax({
-                        url: moviesSearchUrl + self.searchTerm(),
-                        dataType: "jsonp",
-                        success: processMovies
-                    });
-                };
-            }();
-            
-            ko.applyBindings(vm);
-           
-            function processMovies(data) {
-                vm.count = data.total;
-                _.chain(data.movies).map(function (m) {
-                    return { title: m.title, poster: m.posters.profile };
-                }).each(function(m) { vm.movies.push(m); });
-            }
-        </script>
-    </body>
+
+    <script>
+        var apikey = "ercyc3qz8kz5vrxxneuef363";
+        var baseUrl = "http://api.rottentomatoes.com/api/public/v1.0";
+        var moviesSearchUrl = baseUrl + '/lists/movies/box_office.json?apikey=' + apikey;
+
+        $(document).ready(function () {
+            $.ajax({
+                url: moviesSearchUrl + '&limit=50',
+                dataType: "jsonp",
+                success: processMovies
+            });
+            //$.getJSON("movies.txt", processMovies);
+        });
+
+
+        function processMovies(data) {
+            var movies = data.movies;
+            $.each(movies, function (index, movie) {
+                outputMovie(movie);
+            });
+        }
+
+        function outputMovie(movie) {
+            $(document.body).append('<h2>' + movie.title + '</h2>');
+            $(document.body).append('<img src="' + movie.posters.profile + '" />');
+        }
+    </script>
+</body>
 </html>
