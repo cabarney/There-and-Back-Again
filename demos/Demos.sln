@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos", "Demos\Demos.csproj", "{338F2548-F68F-4327-B42E-9C37198B2AD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knockout", "Knockout\Knockout.csproj", "{338F2548-F68F-4327-B42E-9C37198B2AD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
